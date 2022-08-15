@@ -9,8 +9,9 @@ Final review questions:
     Interpreting user needs can seem to be a daunting task, however using the agile methodology we can address the customers needs.
     These methodologies are customer centric, they have a point of contact (Product Owner) who is in constant communication with 
     the customers at the end of the day and creating user stories. The Product owner themselves being in constant contact with the 
-    scrum development teams ensures that if you follow the Agile process, you will be able to implement the users needs into a program. Interpreting what the       customer is actually saying can be difficult, but by being able to have continous development and allow the customer in on that 
-    process you will get their constant feedback during reviews leaving no room for interpretation.
+    scrum development teams ensures that if you follow the Agile process, you will be able to implement the users needs into a program. 
+    Interpreting what the customer is actually saying can be difficult, but by being able to have continous development and allow 
+    the customer in on that process you will get their constant feedback during reviews leaving no room for interpretation.
     
     
     How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
